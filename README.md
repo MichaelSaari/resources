@@ -6,6 +6,7 @@ An ongoing list of interesting resources (including softwares, programs, website
 - [IU Space Planning](https://ready.mmsprd.iu.edu/ready/#): Look up and download CAD files/plans of all IU buildings
 # 3D Printing
 - [FilamenColors](https://filamentcolors.xyz/library/): A repository of filaments that showcase what the colors actually look 3D printed to compare.
+- [ImageToSTL](https://imagetostl.com/convert/file/jpg/to/obj): Easy to use conversion tool that takes 2D images and converts them into 3D file formats.
 # Photogrammetry & 3D Scanning
 - [Sharp Frames Tool](https://sharp-frames.reflct.app/): Tool that extracts sharpest frames from videos and image datasets for photogrammetry processing.
 # Miscellaneous
