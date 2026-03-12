@@ -8,4 +8,5 @@ An ongoing list of interesting resources (including softwares, programs, website
 - [FilamenColors](https://filamentcolors.xyz/library/): A repository of filaments that showcase what the colors actually look 3D printed to compare.
 # Photogrammetry & 3D Scanning
 - [Sharp Frames Tool](https://sharp-frames.reflct.app/): Tool that extracts sharpest frames from videos and image datasets for photogrammetry processing.
-
+# Miscellaneous
+- [Neil's Toolbox](https://www.neilstoolbox.com/): Website with a collection of simple, online tools to do various things quickly and easily. For example: BMI calculator, Compound Interest Calculator, etc.
