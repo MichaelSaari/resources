@@ -9,5 +9,7 @@ An ongoing list of interesting resources (including softwares, programs, website
 - [ImageToSTL](https://imagetostl.com/convert/file/jpg/to/obj): Easy to use conversion tool that takes 2D images and converts them into 3D file formats.
 # Photogrammetry & 3D Scanning
 - [Sharp Frames Tool](https://sharp-frames.reflct.app/): Tool that extracts sharpest frames from videos and image datasets for photogrammetry processing.
+# Photography
+- [DOF Simulator](https://dofsimulator.net/en/): Website with an interactive simulator that calculates the camera depth of field and background blur with different types of lens blur (bokeh) for any lens, camera, and distance combination.
 # Miscellaneous
 - [Neil's Toolbox](https://www.neilstoolbox.com/): Website with a collection of simple, online tools to do various things quickly and easily. For example: BMI calculator, Compound Interest Calculator, etc.
