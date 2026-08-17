@@ -10,6 +10,7 @@ An ongoing list of interesting resources (including softwares, programs, website
 # Photogrammetry & 3D Scanning
 - [Sharp Frames Tool](https://sharp-frames.reflct.app/): Tool that extracts sharpest frames from videos and image datasets for photogrammetry processing.
 - [360Extractor](https://github.com/nicolasdiolez/360Extractor): Tool that extracts frames from 360 video
+- [Gaussian Splat Guide](https://github.com/Xarnder/GaussianSplatGuide): A comprehensive guide on how to work with gaussian splatting methods
 # Photography
 - [DOF Simulator](https://dofsimulator.net/en/): Website with an interactive simulator that calculates the camera depth of field and background blur with different types of lens blur (bokeh) for any lens, camera, and distance combination.
 # Miscellaneous
