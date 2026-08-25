@@ -15,3 +15,4 @@ An ongoing list of interesting resources (including softwares, programs, website
 - [DOF Simulator](https://dofsimulator.net/en/): Website with an interactive simulator that calculates the camera depth of field and background blur with different types of lens blur (bokeh) for any lens, camera, and distance combination.
 # Miscellaneous
 - [Neil's Toolbox](https://www.neilstoolbox.com/): Website with a collection of simple, online tools to do various things quickly and easily. For example: BMI calculator, Compound Interest Calculator, etc.
+- [EasyPro Tools](https://www.easyprotools.com/): A repository of any type of online tool you can think of: cropping, image upscale, color analysis, etc.
